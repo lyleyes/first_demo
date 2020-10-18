@@ -1,5 +1,5 @@
 class Persion():
-	def man():
+	def man(self):
 		print("i am a man")
 
 def good():
