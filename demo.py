@@ -5,4 +5,6 @@ class Persion():
 def good():
 	print("my god!")
 
+a=Persion()
+a.man()
 good()
